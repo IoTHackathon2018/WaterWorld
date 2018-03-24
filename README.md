@@ -2,7 +2,7 @@
 
 ## Description
 
-WaterWorld is a motion sensor water feature (future shower head) to conserve water & save money on water bills. This project is inspired by existing shower heads like [this one] (https://www.costco.ca/Akuaplus-A-Motion-Sensor-Shower-Head.product.100356527.html) and [this] (https://www.amazon.com/Adjustable-Multi-color-Temperature-Sensor-Shower/dp/B00XDT1RIE)  
+WaterWorld is a motion sensor water feature (future shower head) to conserve water & save money on water bills. This project is inspired by existing shower heads like [this one](https://www.costco.ca/Akuaplus-A-Motion-Sensor-Shower-Head.product.100356527.html) and [this](https://www.amazon.com/Adjustable-Multi-color-Temperature-Sensor-Shower/dp/B00XDT1RIE)  
 
 ## Technologies used / Prerequisites
 
@@ -29,6 +29,8 @@ WaterWorld is a motion sensor water feature (future shower head) to conserve wat
 |Water feature turns off|Hand moves away from water flow|Water turns off|
 
 ## Further Specifications
+| Behavior |  Input   |  Output  |
+|----------|:--------:|:--------:|
 |Shower door sensor alerts motion sensor|Shower door is opened, triggering motion sensor|Motion sensor is ready to detect motion|
 |Shower door sensor alerts led lights|Shower door is opened, triggering led lights|LED lights turn on|
 |LED lights change colors|Shower door is opened, triggering led lights|LED lights change color|
@@ -41,4 +43,4 @@ WaterWorld is a motion sensor water feature (future shower head) to conserve wat
   _jincamou@gmail.com_ _stephaniespears1@gmail.com_
 
 ### License
-  _MIT_ &copy; _2018_ **Azure Hippe** **Cody Long** **jin camou** **Max Smiley** **Stephanie Spears**
+  _MIT_ &copy; _2018_ **Azure Hippe**, **Cody Long**, **jin camou**, **Max Smiley**, **Stephanie Spears**
