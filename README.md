@@ -2,12 +2,13 @@
 
 ## Description
 
-WaterWorld is a motion sensor water feature (future shower head) to conserve water & save money on water bills. This project is inspired by existing shower heads like [this one](https://www.costco.ca/Akuaplus-A-Motion-Sensor-Shower-Head.product.100356527.html) and [this](https://www.amazon.com/Adjustable-Multi-color-Temperature-Sensor-Shower/dp/B00XDT1RIE)  
+WaterWorld is a motion sensor water feature (future shower head) to conserve water. This project is inspired by existing shower heads like [this one](https://www.costco.ca/Akuaplus-A-Motion-Sensor-Shower-Head.product.100356527.html) and [this](https://www.amazon.com/Adjustable-Multi-color-Temperature-Sensor-Shower/dp/B00XDT1RIE)  
 
 ## Technologies used / Prerequisites
 
 * [PIR sensor](https://www.adafruit.com/product/189)
-* [Adafruit Power Relay FeatherWing](https://www.adafruit.com/product/3191)
+* [Micro Servo](https://www.adafruit.com/product/169)
+* [Adafruit Feather HUZZAH ESP8266](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266?view=all)
 * [Arduino IDE](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide)
 * [Git](https://git-scm.com/)
 
