@@ -1,7 +1,7 @@
 // Include the Servo library 
 #include <Servo.h> 
 // Declare the Servo pin 
-int servoPin = 1; 
+int servoPin = 16; 
 // Create a servo object 
 Servo Servo1; 
 void setup() { 

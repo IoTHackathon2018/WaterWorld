@@ -19,12 +19,10 @@ long unsigned int pause = 5000;
 boolean lockLow = true;
 boolean takeLowTime; 
 
-int pirPin = 5;            //digital pin connected to the PIR's output
+int pirPin = 13;            //digital pin connected to the PIR's output
 int pirPos = 15;           //connects to the PIR's 5V pin
 
-void setup(){
-//  delay(2500); //steph
-  
+void setup(){  
   myservo.attach(0);    //attaches servo to pin 1
   Serial.begin(9600);    //begins serial communication
   pinMode(pirPin, INPUT);
