@@ -1,0 +1,29 @@
+html {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+
+body {
+  background-image: url("../public/water.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 100%;
+  height: 100%;
+}
+
+.container {
+  padding: 215px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+p {
+  font-size: 26em;
+  font-weight: 620;
+  padding: 92px;
+  margin: auto;
+}
